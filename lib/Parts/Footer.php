@@ -1,6 +1,6 @@
 <?php
 
-namespace Part;
+namespace Parts;
 
 class Footer {
     function __construct()

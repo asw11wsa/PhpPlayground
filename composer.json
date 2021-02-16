@@ -14,7 +14,7 @@
         "Database\\": "lib/Database",
         "Topic\\": "lib/Topic",
         "User\\": "lib/User",
-        "Part\\": "lib/Part"
+        "Parts\\": "lib/Parts"
     }
 }
 }
