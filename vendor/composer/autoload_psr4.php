@@ -6,6 +6,10 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'User\\' => array($baseDir . '/lib/User'),
+    'Topic\\' => array($baseDir . '/lib/Topic'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
+    'Part\\' => array($baseDir . '/lib/Part'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'Database\\' => array($baseDir . '/lib/Database'),
 );

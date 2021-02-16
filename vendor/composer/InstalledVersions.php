@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '8909edfb64a8fd6bee2484b37f9e47455d77c1e0',
     'name' => 'siumac/project-php',
   ),
   'versions' => 
@@ -61,12 +61,12 @@ private static $installed = array (
     ),
     'siumac/project-php' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '8909edfb64a8fd6bee2484b37f9e47455d77c1e0',
     ),
   ),
 );

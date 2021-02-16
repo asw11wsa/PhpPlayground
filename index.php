@@ -12,10 +12,23 @@ require_once $_SERVER['DOCUMENT_ROOT']."/vendor/autoload.php";
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="asset/css/index.css">
 </head>
 <body>
 <div>
-    <h1>hello this is siu</h1>
+    <?php
+        $header = new \Part\Header();
+
+        if($_GET['subject']){
+            $topic = new \Topic\Topic($_GET['subject']);
+        }else{
+            echo '<div>
+                    <h1>this is main</h1>
+                  </div>';
+        }
+
+        $footer = new \Part\Footer();
+    ?>
 </div>
 </body>
 </html>
