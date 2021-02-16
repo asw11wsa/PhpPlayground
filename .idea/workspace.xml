@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e52ed34-6307-4301-8c57-39a6185aadb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Database/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Part/Footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Part/Header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Topic/Topic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-php.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Part/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Part/Header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613441429186</updated>
-      <workItem from="1613441430309" duration="2701000" />
+      <workItem from="1613441430309" duration="4380000" />
     </task>
     <servers />
   </component>
