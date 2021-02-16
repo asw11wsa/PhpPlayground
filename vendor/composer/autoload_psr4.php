@@ -9,7 +9,8 @@ return array(
     'User\\' => array($baseDir . '/lib/User'),
     'Topic\\' => array($baseDir . '/lib/Topic'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
-    'Part\\' => array($baseDir . '/lib/Part'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'Main\\' => array($baseDir . '/lib/Parts/Main'),
     'Database\\' => array($baseDir . '/lib/Database'),
+    'Community\\' => array($baseDir . '/lib/Parts/Community'),
 );

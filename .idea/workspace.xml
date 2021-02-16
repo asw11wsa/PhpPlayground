@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e52ed34-6307-4301-8c57-39a6185aadb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/Topic/TopicController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Topic/TopicView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/User/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/User/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/User/UserView.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Project-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-php.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Part/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Part/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Parts/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Main/Footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Parts/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Main/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +69,11 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Parts/Main" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613441429186</updated>
-      <workItem from="1613441430309" duration="4657000" />
+      <workItem from="1613441430309" duration="5655000" />
     </task>
     <servers />
   </component>

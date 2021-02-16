@@ -18,15 +18,19 @@ class ComposerStaticInit7eb3377a23bb9770c1737e9ed82c8467
         'P' => 
         array (
             'Psr\\Log\\' => 8,
-            'Part\\' => 5,
         ),
         'M' => 
         array (
             'Monolog\\' => 8,
+            'Main\\' => 5,
         ),
         'D' => 
         array (
             'Database\\' => 9,
+        ),
+        'C' => 
+        array (
+            'Community\\' => 10,
         ),
     );
 
@@ -43,17 +47,21 @@ class ComposerStaticInit7eb3377a23bb9770c1737e9ed82c8467
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
         ),
-        'Part\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/lib/Part',
-        ),
         'Monolog\\' => 
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
+        'Main\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/lib/Parts/Main',
+        ),
         'Database\\' => 
         array (
             0 => __DIR__ . '/../..' . '/lib/Database',
+        ),
+        'Community\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/lib/Parts/Community',
         ),
     );
 

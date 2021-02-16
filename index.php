@@ -17,7 +17,7 @@ require_once $_SERVER['DOCUMENT_ROOT']."/vendor/autoload.php";
 <body>
 <div>
     <?php
-        $header = new \Parts\Header();
+        $header = new \Main\Header();
 
         if($_GET['subject']){
             $topic = new \Topic\Topic($_GET['subject']);
@@ -27,7 +27,7 @@ require_once $_SERVER['DOCUMENT_ROOT']."/vendor/autoload.php";
                   </div>';
         }
 
-        $footer = new \Parts\Footer();
+        $footer = new \Main\Footer();
     ?>
 </div>
 </body>

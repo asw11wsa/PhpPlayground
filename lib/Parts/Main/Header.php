@@ -1,6 +1,6 @@
 <?php
 
-namespace Parts;
+namespace Main;
 
 class Header {
     function __construct()

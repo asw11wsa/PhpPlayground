@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8909edfb64a8fd6bee2484b37f9e47455d77c1e0',
+    'reference' => 'c0c99510a3514c574bc06c7e4340f91157806080',
     'name' => 'siumac/project-php',
   ),
   'versions' => 
@@ -43,7 +43,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8909edfb64a8fd6bee2484b37f9e47455d77c1e0',
+      'reference' => 'c0c99510a3514c574bc06c7e4340f91157806080',
     ),
   ),
 );
