@@ -1,0 +1,12 @@
+{
+    "name": "siumac/project-php",
+    "authors": [
+        {
+            "name": "asw11wsa",
+            "email": "asw11wsa@naver.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.2"
+    }
+}
