@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4a8ed544-5c08-4e61-b90e-3a8a42bb26f1" name="tourgosutest">
+        <fileTransfer accessType="SFTP" host="58.229.240.104" port="22" sshConfigId="b06d0f15-15d9-47ae-bb04-06ff1c12d56c" sshConfig="root@58.229.240.104:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

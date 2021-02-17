@@ -8,14 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <div>this is header</div>
-    </header>
-<section>
-    <div>this is body</div>
-</section>
-<footer>
-    <div>this is footer</div>
-</footer>
+<?php
+    echo $_POST['title'];
+    echo $_POST['description'];
+
+?>
 </body>
 </html>

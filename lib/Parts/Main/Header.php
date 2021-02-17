@@ -9,7 +9,7 @@ class Header {
                   <div class="logo">this is header</div>
                   <a href="/index.php">home</a>
                   <a href="/index.php?subject=topic">topic</a>
-                  <a href="/index.php?subject=community">community</a>
+                  <a href="/community">community</a>
               </header>';
     }
 }

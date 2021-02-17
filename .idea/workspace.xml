@@ -2,28 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e52ed34-6307-4301-8c57-39a6185aadb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Topic/TopicController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Topic/TopicView.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/User/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/User/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/User/UserView.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Parts/Community/Delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Parts/Community/Update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Parts/Community/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Parts/Community/Write.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Parts/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Main/Footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Parts/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Main/Header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Parts/Main/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Parts/Main/Header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -56,8 +50,12 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -82,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613441429186</updated>
-      <workItem from="1613441430309" duration="5655000" />
+      <workItem from="1613441430309" duration="10439000" />
+      <workItem from="1613523992204" duration="26000" />
     </task>
     <servers />
   </component>

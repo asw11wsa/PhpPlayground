@@ -1,9 +1,6 @@
 <?php
-
 require_once $_SERVER['DOCUMENT_ROOT']."/vendor/autoload.php";
-
 ?>
-
 <!doctype html>
 <html lang="en">
 <head>
